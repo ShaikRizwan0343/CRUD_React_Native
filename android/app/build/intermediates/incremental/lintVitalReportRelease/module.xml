@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/home/web-lp-031/rizwan_react_native/CRUDAPP/android/app"
+    name=":app"
+    type="APP"
+    maven="CRUDAPP:app:"
+    gradle="7.4.2"
+    buildFolder="build"
+    bootClassPath="/home/web-lp-031/Android/Sdk/platforms/android-33/android.jar:/home/web-lp-031/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="11"
+    compileTarget="android-33"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

@@ -1,0 +1,7 @@
+#Fri Oct 20 11:12:57 IST 2023
+base.1=/home/web-lp-031/rizwan_react_native/CRUDAPP/android/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
+path.1=classes2.dex
+base.0=/home/web-lp-031/rizwan_react_native/CRUDAPP/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
